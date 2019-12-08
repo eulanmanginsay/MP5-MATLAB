@@ -1,3 +1,4 @@
+% Problem 5
 n = 0:199;
 y = 0:199;
 x = input('Input equation of x(n): ');
